@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Benjamin Sinaiko ben.jamin@outlook.com @huckabeej
 
 # THANKS
 
